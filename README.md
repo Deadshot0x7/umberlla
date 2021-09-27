@@ -4,3 +4,6 @@ By using the tool you're agree with the terms and condition.
 # umberlla
 ![Screenshot](https://wallpaperaccess.com/full/452898.jpg)
 cli based tool for sms and phonce calling bombing 
+```
+sudo
+```
