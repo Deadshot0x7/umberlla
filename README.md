@@ -12,4 +12,4 @@ cli based tool for sms and phonce calling bombing
 4. Termux
 
 # Discord 
-Join the discord for sever for the updates reagarding the tool 
+Join the discord for server (https://discord.gg/7FS2BP86rV) for the updates reagarding the tool 
