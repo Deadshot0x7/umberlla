@@ -46,6 +46,8 @@ if __name__ == "__main__":
             break
         
         except Exception as e:
-            print("Exception caught ")
+            print("Unknow command")
+            t.sleep(1)
+            break
 
         
