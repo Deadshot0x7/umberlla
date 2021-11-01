@@ -11,5 +11,12 @@ The script  has been tested on these platform
 2. Machintosh 
 3. Linux 
 4. Termux
+# Commands 
+```
+command        command descriptation 
+-sms            start the sms bombing 
+-phone          start the phone bombing
+
+```
 # Discord 
 Join the discord for server (https://discord.gg/7FS2BP86rV) for the updates reagarding the tool 
