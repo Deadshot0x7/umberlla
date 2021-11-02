@@ -1,5 +1,5 @@
 # Umberlla
-Have a frriend or relative to annony ? use this cli based tool for sms bombing and phone bobming tool 
+Have a friend or a relative to annony ? use this cli based tool for sms bombing and phone bombing tool 
 # Discalimer 
 Discalimer : this tool is made for educational purpose , Sayyed Viquar ahmed ( Deadshot0x7) is not responsible for any kind of loss made by you . 
 By using the tool you're agree with the terms and condition.
@@ -7,7 +7,7 @@ By using the tool you're agree with the terms and condition.
 ```
 command        command descriptation 
 -sms            start the sms bombing 
--phone          start the phone bombing
+-ph         start the phone bombing
 -update         Update the script 
 
 ```
