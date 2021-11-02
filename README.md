@@ -7,8 +7,8 @@ By using the tool you're agree with the terms and condition.
 ```
 command        command descriptation 
 -sms            start the sms bombing 
--ph         start the phone bombing
--update         Update the script 
+-ph             start the phone bombing
+-update         update the script 
 
 ```
 # like
@@ -21,4 +21,4 @@ The script  has been tested on these platform
 4. Termux
 
 # Discord 
-Join the discord for server (https://discord.gg/7FS2BP86rV) for the updates reagarding the tool 
+Join the discord for server (https://discord.gg/7FS2BP86rV) for the accoument regarding the tool
