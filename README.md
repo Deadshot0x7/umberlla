@@ -16,6 +16,7 @@ The script  has been tested on these platform
 command        command descriptation 
 -sms            start the sms bombing 
 -phone          start the phone bombing
+-update         Update the script 
 
 ```
 # Discord 
