@@ -7,7 +7,7 @@ try:
     import logging
     import os as o 
 except ImportError as e:
-    print("Some Header  are missing")
+    print("Some Header  are missing, yep they are missing")
 
 
 def printbanner():
