@@ -11,5 +11,7 @@ The script  has been tested on these platform
 2. Machintosh 
 3. Linux 
 4. Termux
+# Version
+Currently this tool is under-development and first version of the will be rolling out soon 😉
 # Discord 
 Join the discord for server (https://discord.gg/7FS2BP86rV) for the updates reagarding the tool 
